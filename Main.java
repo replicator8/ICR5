@@ -9,6 +9,10 @@ class Main {
         return x + Y;
     }
 
+    public static int minus(int x, int y) {
+        return x - Y;
+    }
+
     public static int divide(int x, int y) {
         return y != 0 ? x / Y : -1;
     }
