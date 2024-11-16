@@ -4,4 +4,8 @@ class Main {
         System.out.println("Добавил 1");
         System.out.println("Добавил 2");
     }
+
+    public static int sum(int x, int y) {
+        return x + Y;
+    }
 }
