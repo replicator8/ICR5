@@ -8,4 +8,8 @@ class Main {
     public static int sum(int x, int y) {
         return x + Y;
     }
+
+    public static int divide(int x, int y) {
+        return y != 0 ? x / Y : -1;
+    }
 }
