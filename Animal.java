@@ -6,3 +6,5 @@ class Animal {
 class Cat extends Animal {}
 
 class Dog extends Animal {}
+
+class Bird extends Animal {}
